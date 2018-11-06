@@ -3,6 +3,7 @@ import '../../components/Button/Butonn.css';
 import Select from 'react-select';
 import loadUserData from '../../actions/DashBoard/dashboard';
 import { connect } from 'react-redux';
+import '../../containers/DashBoard/DashBoard.css';
 
 class DashBoard extends Component {
 
